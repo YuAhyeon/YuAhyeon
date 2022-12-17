@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=egg&&color=f8bbd0&height=200&section=header&text=Ahyeon%20Yu&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&&color=f8bbd0&height=300&section=header&text=Ahyeon%20Yu&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
 <br>
 <h2>💖 Tech Stacks 💖</h2>
