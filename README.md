@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Soft&&color=f8bbd0&height=200&section=header&text=Ahyeon%20Yu%20🥰&fontSize=90&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Soft&&color=f8bbd0&height=180&section=header&text=Ahyeon%20Yu%20🥰&fontSize=90&fontColor=ffffff&animation=twinkling)
 
 ![](https://velog.velcdn.com/images/youa7878/post/ca776db3-abdb-4f24-a233-1e207261bfe5/image.png)
 
