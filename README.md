@@ -12,7 +12,11 @@
 
 </br>
 
-<a href="https://velog.io/@youa7878" target="_blank"><img src="https://img.shields.io/badge/Ahyeon's velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="dkgus7213@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Ahyeon's Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> </br>
+<a href="https://velog.io/@youa7878" target="_blank"><img src="https://img.shields.io/badge/Ahyeon's velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> </br>
+<a href="https://velog.io/@youa7878" target="_blank"><img src="https://img.shields.io/badge/Ahyeon's Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> </br>
+<a href="https://velog.io/@youa7878" target="_blank"><img src="https://img.shields.io/badge/Ahyeon's Naver Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> </br>
+
 
 </br>
 
