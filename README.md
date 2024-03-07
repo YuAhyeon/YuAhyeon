@@ -3,42 +3,42 @@
 </div>
 
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=Soft&&color=f8bbd0&height=180&section=header&text=Ahyeon%20Yu%20🥰&fontSize=90&fontColor=ffffff&animation=twinkling)
-
-![](https://velog.velcdn.com/images/youa7878/post/ca776db3-abdb-4f24-a233-1e207261bfe5/image.png)
-
-안녕하세요! 다양한 관점으로 시각화를 즐기는 프론트엔드 개발자 `유아현`입니다. </br> 사용자 친화적인 서비스 제공에 관심을 가지고 있습니다. 배움을 두려워하지 않는 성장에 목마른 개발자입니다! </br> 개발 중 만난 어려움에 대한 기록이나 새롭게 알게 된 사실들, 관심사에 대한 지식들을 정리하려고 노력하고 있습니다. 🏃‍♀️🏃‍♀️🏃‍♀️
-
 </br>
-
-<a href="https://velog.io/@youa7878" target="_blank"><img src="https://img.shields.io/badge/Ahyeon's velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-
-
-</br>
-
 </br>
 </br>
 
-## 🌈 Tech Stacks 🌈
+### Tech Stacks
 
 </br>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=react&logoColor=white"/>
+
   </br>
-  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  </br>
 
-</br>
-</br>
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YuAhyeon&show_icons=true&theme=dracula" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuAhyeon&layout=compact" height="150">
+  </br>
+  </br>
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA280?style=flat&logo=firebase&logoColor=white"/>
+
+  </br>
+  </br>
+  
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+
+  </br>
+  </br>
 
 </div>
