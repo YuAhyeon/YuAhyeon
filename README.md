@@ -12,8 +12,7 @@
 
 </br>
 
-<a href="https://velog.io/@youa7878" target="_blank"><img src="https://img.shields.io/badge/Ahyeon's velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> </br>
-<a href="https://blog.naver.com/dkgus7123" target="_blank"><img src="https://img.shields.io/badge/Ahyeon's Naver Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> </br>
+<a href="https://velog.io/@youa7878" target="_blank"><img src="https://img.shields.io/badge/Ahyeon's velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 
 </br>
@@ -39,7 +38,7 @@
 </br>
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=youa7878&show_icons=true&theme=dracula" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youa7878&layout=compact" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=YuAhyeon&show_icons=true&theme=dracula" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuAhyeon&layout=compact" height="150">
 
 </div>
