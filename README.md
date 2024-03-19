@@ -1,5 +1,5 @@
 <div align="right">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoua7878%2Fhit-counter&count_bg=%23FF9CDB&title_bg=%23808080&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoua7878%2Fhit-counter&count_bg=%233E91FF&title_bg=%23555555&icon=&icon_color=%23555555&title=hits&edge_flat=false"/></a>
 </div>
 
 <div align="center">
@@ -10,7 +10,6 @@
 ### Tech Stacks
 
 </br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
